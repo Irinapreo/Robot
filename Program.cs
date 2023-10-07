@@ -1,9 +1,9 @@
 ﻿
 using System;
 
-namespace Notepad;
+namespace Robot;
 
-public class Game
+public class Program
 {
     public static void Main()
     {

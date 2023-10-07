@@ -1,5 +1,5 @@
 ﻿
-namespace Notepad;
+namespace Robot;
 
 public class Robot
 {
